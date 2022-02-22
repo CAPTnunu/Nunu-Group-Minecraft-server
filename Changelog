@@ -1,5 +1,11 @@
 Minecraft server changelog
 
+-22-02-2022-
+  Mincraft version: 1.18.1
+  Server version: 0.2.0
+  Integrated paper version: b757019
+    - Plugin LuckPerms integrated.
+
 -21-02-2022-
   Mincraft version: 1.18.1
   Server version: 0.1.1
